@@ -50,7 +50,7 @@ Follow these steps to set up and run the template:
 
 ## Features
 
-- **Python Version**: 3.11.4
+- **Python Version**: 3.11+
 - **Testing**: Integrated with Pytest.
 - **Continuous Integration**: Set up with GitHub Actions.
 - **Static Analysis**: Enhanced with Ruff.
